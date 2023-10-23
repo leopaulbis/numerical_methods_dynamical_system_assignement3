@@ -1,2 +1,2 @@
 # numerical_methods_dynamical_system_assignement3
-Assignement 3 of the NMDS
+You will find here all the code and the report of the assignement 3 of the NMDS
